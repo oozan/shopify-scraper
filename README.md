@@ -40,9 +40,13 @@ node dist/index.js
 
 This will start the server on the port specified in the application (default is 3000)You should see output similar to:
 
-arduino
-
 Server is running on port 3000
+
+##
+##
+##
+
+
 
 Make a request to the API:
 
