@@ -50,8 +50,6 @@ Open your web browser or use a tool like curl or Postman to make a GET request t
 
 Example Request URL:
 
-bash
-
     http://localhost:3000/scrape?url=https://growgrows.com/en-us/products/plentiful-planets-sleepsuit
 
 Expected API Response
@@ -106,4 +104,3 @@ shopify-scraper/
 ├── tsconfig.json          # TypeScript compiler configuration
 ├── README.md              # This readme file
 ```
-
